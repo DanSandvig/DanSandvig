@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DanSandvig
 - 👀 I’m interested in studying programming and software development from all angles and securing an apprenticeship or trainee role.
-- 🌱 I’m currently working through a government funded Digital Skills Bootcamp in Software Development with QA Ltd
-- 💞️ I’m looking to collaborate on any projects suitable for a beginner in Web Development or someone with hobbyist-level experience in Unity and C#.
+- 🌱 I’ve just finished working through a government funded Digital Skills Bootcamp in Software Development with QA Ltd
+- 💞️ I’m looking to collaborate on any projects suitable for a beginner in Web Development and Java, or someone with hobbyist-level experience in Unity and C#.
 - 📫 [E-mail me](mailto:dspublicaddress@protonmail.com)
 
 <!---
